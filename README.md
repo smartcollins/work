@@ -1,7 +1,3 @@
 # Welcome
 
-something new
-
-## sub
-
-nada
+how to create a revolving colorfull cube
